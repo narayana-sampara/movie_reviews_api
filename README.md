@@ -34,7 +34,7 @@ A robust Flask-based web scraping API that aggregates Telugu movie reviews from 
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/narayana-sampara/movie_reviews_api.git
 cd movie_reviews_api
 ```
 
